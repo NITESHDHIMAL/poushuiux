@@ -1,0 +1,8 @@
+1.git init
+2.add origin(add git remote add origin https://github.com/NITESHDHIMAL/testingpoushgithub.git)
+3. git add .
+4. git commit -m "home page create"
+5. git push -u origin branch_name(master/ram/hari)
+
+
+=>check status(git status)
